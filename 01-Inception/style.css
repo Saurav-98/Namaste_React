@@ -1,7 +1,29 @@
-#heading {
+#child1 .heading1 {
   background-color: #20232a;
   padding: 2rem;
   text-transform: uppercase;
   color: #61dafb;
+  text-align: center;
+}
+#child1 .heading2 {
+  background-color: #e65100;
+  padding: 2rem;
+  text-transform: uppercase;
+  color: #ffe0b2;
+  text-align: center;
+}
+
+#child2 .heading1 {
+  background-color: #673ab7;
+  padding: 2rem;
+  text-transform: uppercase;
+  color: #42a5f5;
+  text-align: center;
+}
+#child2 .heading2 {
+  background-color: #4caf50;
+  padding: 2rem;
+  text-transform: uppercase;
+  color: #d4e157;
   text-align: center;
 }
